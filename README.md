@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 ### Mi nombre es Cristian Rojas  👋
 
 *🌱 En este momento estoy aprendiendo todo sobre frontend y backend*
-*🎨 I’m looking to collaborate, work and learn about any educational, literature and design project.*
+*🎨 Quiero trabajar y aprender sobre cualquier proyecto en temas de diseño y funcionalidad.*
 
-*Click Aquí* [<img src="https://img.icons8.com/nolan/64/moleskine.png"/>](https://cristianrojas6.github.io/portafolio/)**para ver mi portafolio donde puedes encontrar más sobre mí ...**
+*Click Aquí* [<img src="https://img.icons8.com/nolan/64/moleskine.png"/>](https://cristianrojas6.github.io/Portafolio/)**para ver mi portafolio donde puedes encontrar más sobre mí ...**
 
 <img src="https://img.icons8.com/color/48/000000/html-5.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/sass.png"/><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/><img src="https://img.icons8.com/color/48/000000/media-queries.png"/><img src="https://img.icons8.com/color/48/000000/javascript.png"/><img src="https://img.icons8.com/ios-filled/50/000000/jquery.png"/><img src="https://img.icons8.com/windows/32/000000/npm.png"/><img src="https://img.icons8.com/color/48/000000/angularjs.png"/><img src="https://img.icons8.com/color/48/000000/git.png"/><img src="https://img.icons8.com/color/48/000000/github-2.png"/><img src="https://img.icons8.com/material/48/000000/heroku.png"/>
 
