@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola todos 👋
 
 <!--
 **CristianRojas6/CristianRojas6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Hi there,I'm Cristian Rojas  👋
 
-*🌱 I’m currently learning about Front-End Development.*
+*🌱 En este momento estoy aprendiendo todo sobre frontend y backend*
 *🎨 I’m looking to collaborate, work and learn about any educational, literature and design project.*
 
 *Click here* [<img src="https://img.icons8.com/nolan/64/moleskine.png"/>](https://dianaximenacm.github.io/Portfolio/)**to see my portfolio where you can find more about me...**
