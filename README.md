@@ -31,8 +31,6 @@ Here are some ideas to get you started:
 
 *💬 Puedes hacer cualquier pregunta*
 *📫 Puedes contactarme mediante mi correo: cristianfrojas6@gmail.com*
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/> ](https://www.linkedin.com/in/dianximenacm/ )
-[<img src="https://img.icons8.com/color/48/000000/twitter-circled.png"/>](https://twitter.com/dianaximenacm) 
-[<img src="https://img.icons8.com/color/48/000000/codepen.png"/>](https://codepen.io/dianaximenacm)
 
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="es_ES" data-type="horizontal" data-theme="dark" data-vanity="cristian-fernando-9a1220198"><a class="LI-simple-link" href='https://co.linkedin.com/in/cristian-fernando-9a1220198?trk=profile-badge'>Cristian Fernando</a></div>
 
