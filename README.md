@@ -32,5 +32,5 @@ Here are some ideas to get you started:
 *💬 Puedes hacer cualquier pregunta*
 *📫 Puedes contactarme mediante mi correo: cristianfrojas6@gmail.com*
 
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="es_ES" data-type="horizontal" data-theme="dark" data-vanity="cristian-fernando-9a1220198"><a class="LI-simple-link" href='https://co.linkedin.com/in/cristian-fernando-9a1220198?trk=profile-badge'>Cristian Fernando</a></div>
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="es_ES" data-type="vertical" data-theme="dark" data-vanity="cristian-fernando-9a1220198"><a class="LI-simple-link" href='https://co.linkedin.com/in/cristian-fernando-9a1220198?trk=profile-badge'>Cristian Fernando</a></div>
 
