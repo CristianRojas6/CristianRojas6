@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 *📫 Puedes contactarme mediante mi correo: cristianfrojas6@gmail.com*
 
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="es_ES" data-type="vertical" data-theme="dark" data-vanity="cristian-fernando-9a1220198">
- </div>
+ 
  [<img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png"/>](https://www.linkedin.com/in/cristian-rojas-cas/)
+ </div>
+ 
 
